@@ -1,0 +1,8 @@
+
+11- resultados da saida:
+28
+30
+9
+
+11/2- Alternativa C : !important ( sobrescreve todas as classes com o mesmo nome)
+12- Alternativa D : Black 
